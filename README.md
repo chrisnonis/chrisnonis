@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on devops / cloud projects
 - 📫 How to reach me: Twitter@xda_remote
   
-  LinkedIn https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite 
+  LinkedIn  ![Linkedin](https://img.shields.io/badge/<Linkedin>-<Background Color>?style=for-the-badge&logo=<Linkedin>&logoColor=<blue>)
 
 chrisnonis/chrisnonis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
