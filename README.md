@@ -1,8 +1,10 @@
 - 👋Hi there 👋 thanks for stumbling across my Github...... not much public at the mo but I'm hoping to change that going forward! Please do hook up with me on here and Twitter, follow my twitterhttps://twitter.com/xda_remote
+- 🔭 Currently working on Azure Migrations / Transformations / Devops
+- 🌱 I’m currently learning IOT / Python
 - 👀 I’m interested in devops / cloud
-- 🌱 I’m currently learning 
+- 💬 Ask me about anything
 - 💞️ I’m looking to collaborate on devops / cloud projects
-- 📫 How to reach me itorpu@gmail.com
+- 📫 How to reach me: Twitter@xda_remote
 
 <!---
 chrisnonis/chrisnonis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
