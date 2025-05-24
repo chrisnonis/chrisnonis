@@ -1,12 +1,55 @@
-- 👋Hi there 👋 thanks for stumbling across my Github...... on a second wind since retiring - lots of projects on at the moment so expect alot of activity. Please do hook up with me on here and Twitter, follow my twitterhttps://twitter.com/xda_remote
-- 🔭 Currently working on A number of Apps / AI agents / AI bridge products  / Devops
-- 🌱 I’m currently learning C#/Python and developing IOT skills and mad into Vibe Coding 
-- 👀 I’m interested in devops / cloud  / AI / Vibe Coding
-- 💬 Ask me about anything
-- 💞️ I’m looking to collaborate on AI / devops / cloud projects
-- 📫 How to reach me: Twitter@xda_remote
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
 
-  <a href="(https://www.linkedin.com/in/christopher-nonis/)"><img src="[https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOGnJL8GRRICg8pfRvMvlrQ%3D%3D)" alt="linked-in" loading="lazy" width="115" height="28"></a>
+<h2 align="center">I'm Chris Nonis</h2>
+<h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer / Vibe Coder / Innvoation Architect and now retired cloud architect</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisnonis&label=Profile%20views&color=0e75b6&style=flat" alt="Hemraj183" /> </p>
 
 
 
+
+<img align="right" alt="GIF" src="https://github.com/chrisnonis/chrisnonis/blob/main/coding.gif" width="390" height="350" />
+
+
+
+- 🔭 I’m continually working on machine learning, computer vision and deep learning projects.
+- 🌱 I’m continually learning deep learning and Natural Language Processing.
+- 👯 I’m always open to collaboration on AI projects and AI research.
+- 🤔 I’m always open to collaboration with my Deep Learning research.
+- 💬 Ask me about machine learning, Cloud or deep learning.
+- 📫 How to reach me: itorpu@gmail.com
+- ⚡ Fun fact: You may get AGI by 2030😀😅
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://[www.linkedin.com/in/christopher-nonis](https://www.linkedin.com/in/christopher-nonis/)/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christopher-nonis" /></a>
+<a href="https://www.instagram.com/itorpu" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="itorpu" /></a>
+<a href="mailto:itorpu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="itorpu" /></a></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sciket-Learn"/>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLLite"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda"/>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/> </p>
+ 
+<p align="center">	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chrisnonis&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisnonis&theme=tokyonight" />
+</p>
+ <p align="center">	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisnonis&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+  <img width="48%" height="190" src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+  
+<!--Trap--:)-->
