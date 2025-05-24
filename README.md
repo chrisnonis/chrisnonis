@@ -21,7 +21,7 @@
 - ⚡ Fun fact: You may get AGI by 2030😀😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://[www.linkedin.com/in/christopher-nonis](https://www.linkedin.com/in/christopher-nonis/)/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christopher-nonis" /></a>
+<a href="https://[www.linkedin.com/in/christopher-nonis](https://www.linkedin.com/in/christopher-nonis)/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christopher-nonis" /></a>
 <a href="https://www.instagram.com/itorpu" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="itorpu" /></a>
 <a href="mailto:itorpu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="itorpu" /></a></p>
 <h3 align="left">Languages and Tools:</h3>
