@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
 
-<h2 align="center">I'm Chris Nonis</h2>
+<h2 align="center">I'm torpu2017</h2>
 <h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer / Vibe Coder / Innvoation Architect and now retired cloud architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisnonis&label=Profile%20views&color=0e75b6&style=flat" alt="Hemraj183" /> </p>
@@ -17,13 +17,11 @@
 - 👯 I’m always open to collaboration on AI projects and AI research.
 - 🤔 I’m always open to collaboration with my Deep Learning research.
 - 💬 Ask me about machine learning, Cloud or deep learning.
-- 📫 How to reach me: itorpu@gmail.com
+- 📫 How to reach me: torpu2017@gmail.com
 - ⚡ Fun fact: You may get AGI by 2030😀😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/christopher-nonis/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
-<a href="https://www.instagram.com/itorpu" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="itorpu" /></a>
-<a href="mailto:itorpu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="itorpu" /></a></p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
