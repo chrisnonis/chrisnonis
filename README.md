@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
 
 <h2 align="center">I'm torpu2017</h2>
-<h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer / Vibe Coder / Innvoation Architect and now retired cloud architect</h3>
+<h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer / Vibe Coder / Innvoation Architect </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisnonis&label=Profile%20views&color=0e75b6&style=flat" alt="Hemraj183" /> </p>
 
